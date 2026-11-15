@@ -1,0 +1,20 @@
+# ─── Backend secrets ──────────────────────────────────
+banking-backend/src/main/resources/application.properties
+
+# ─── Docker secrets ───────────────────────────────────
+.env
+
+# ─── Backend build ────────────────────────────────────
+banking-backend/target/
+
+# ─── Frontend dependencies ────────────────────────────
+banking-frontend/node_modules/
+banking-frontend/dist/
+
+# ─── Editor settings ──────────────────────────────────
+.idea/
+.vscode/
+
+# ─── OS ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
