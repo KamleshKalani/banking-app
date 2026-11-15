@@ -6,6 +6,8 @@ A full-stack digital banking platform built with **Spring Boot 3** and **React**
 
 **Live Demo:** _Coming soon_
 
+**Repository:** https://github.com/KamleshKalani/banking-app
+
 ---
 
 ## What This Project Does
