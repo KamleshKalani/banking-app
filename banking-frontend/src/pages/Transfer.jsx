@@ -91,7 +91,7 @@ export default function Transfer() {
               />
             </div>
             <div style={styles.field}>
-              <label style={styles.label}>Amount (₹)</label>
+              <label style={styles.label}>Amount (Rs)</label>
               <input
                 type="number" min="1" step="0.01"
                 placeholder="Enter amount"
