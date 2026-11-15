@@ -53,7 +53,7 @@ Bank staff (role `ADMIN`) get a back-office console to:
 | ORM | JPA / Hibernate |
 | Database | MySQL |
 | Build Tool | Maven |
-| Frontend | React 18 + Vite |
+| Frontend | React 19 + Vite |
 | HTTP Client | Axios |
 | Routing | React Router DOM |
 | Typography | Inter / Fraunces (Google Fonts) |
