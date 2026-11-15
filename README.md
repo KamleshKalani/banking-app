@@ -1,12 +1,22 @@
 # Kamlesh Capital Finance
 
+[![CI](https://github.com/KamleshKalani/banking-app/actions/workflows/ci.yml/badge.svg)](https://github.com/KamleshKalani/banking-app/actions/workflows/ci.yml)
+
 A full-stack digital banking platform built with **Spring Boot 3** and **React**. Features JWT authentication, account management, real-time fund transfers, virtual debit/credit cards, instant-disbursement loan products, downloadable statements, and a back-office console for customer and account oversight.
 
 > Kamlesh Capital Finance is a demonstration banking platform built to showcase full-stack engineering practices. It is not a licensed bank or financial institution, and no real funds are held, transferred, or insured.
 
-**Live Demo:** _Coming soon_
-
 **Repository:** https://github.com/KamleshKalani/banking-app
+
+---
+
+## Screenshots
+
+| Sign in | Dashboard |
+|---|---|
+| ![Sign in page](screenshots/login.png) | ![Dashboard with accounts and recent transactions](screenshots/dashboard.png) |
+
+![Transfer funds page](screenshots/transfer.png)
 
 ---
 
