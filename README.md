@@ -138,8 +138,9 @@ The fastest way to run the whole stack — MySQL, the Spring Boot API, and the R
 
 ### Steps
 
-**1. Open the project folder**
+**1. Clone the repository**
 ```bash
+git clone https://github.com/KamleshKalani/banking-app.git
 cd banking-app
 ```
 
@@ -186,8 +187,9 @@ docker compose exec mysql mysql -u root -p"$MYSQL_ROOT_PASSWORD" "$MYSQL_DATABAS
 
 ### Steps
 
-**1. Open the project folder**
+**1. Clone the repository**
 ```bash
+git clone https://github.com/KamleshKalani/banking-app.git
 cd banking-app/banking-backend
 ```
 
